@@ -37,5 +37,5 @@ Avant de lancer ce projet, assurez-vous d'avoir :
 ### Étapes pour cloner et exécuter le projet :
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/<votre-utilisateur>/<nom-du-projet>.git
+   git clone https://github.com/<GhizlaneAyadii>/RestaurantDeliveryApp.git
    cd <nom-du-projet>
