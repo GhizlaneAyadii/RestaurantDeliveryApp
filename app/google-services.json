@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040057337022",
+    "project_id": "projectgaz-foodapp",
+    "storage_bucket": "projectgaz-foodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040057337022:android:ff92bb20a6d0df9c364aef",
+        "android_client_info": {
+          "package_name": "com.example.projectgaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hPX3oXLmusufvaVBHjN64OGscinPKHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
